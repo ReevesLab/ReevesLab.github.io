@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Reeves &amp; Jost Labs</title>
+    <link>https://reeveslab.github.io/project/</link>
+    <description>Recent content in Projects on Reeves &amp; Jost Labs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://reeveslab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CytoDRAV</title>
+      <link>https://reeveslab.github.io/project/cytodrav/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/project/cytodrav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic Signatures of HIV-specific NK Clones</title>
+      <link>https://reeveslab.github.io/project/transcriptomic-clones/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/project/transcriptomic-clones/</guid>
+      <description>&lt;p&gt;One of the projects here at the Reeves Lab involves cloning NK populations from single NK cells. We utilize two methods for this assay: limiting serial dilutions and sorting. Cells are cultured with feeder cells, irradiated autologous PBMCs and IL-2. After ~4-6 weeks the cell cultures have grown enough in size to phenotypically and functionally characterize.&lt;/p&gt;
+
+&lt;p&gt;One interesting result we have seen is that some clonal populations from PLWH is that they respond in a greater magnitude to Env or Gag presenting autologous BLCLs. We are using multiple approaches to try and determine what transcriptomic or proteomic changes are occuring that infer memory like responses to these clones.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

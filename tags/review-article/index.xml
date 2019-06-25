@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review Article on Reeves &amp; Jost Labs</title>
+    <link>https://reeveslab.github.io/tags/review-article/</link>
+    <description>Recent content in Review Article on Reeves &amp; Jost Labs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://reeveslab.github.io/tags/review-article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monkeying Around: Using Non-human Primate Models to Study NK Cell Biology in HIV Infections</title>
+      <link>https://reeveslab.github.io/publication/monkeyingaround/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/monkeyingaround/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive NK cell responses in HIV/SIV infections: A roadmap to cell-based therapeutics?</title>
+      <link>https://reeveslab.github.io/publication/roadmap/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytokine-Mediated Tissue Injury in Non-human Primate Models of Viral Infections.</title>
+      <link>https://reeveslab.github.io/publication/cytokine-nhp/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/cytokine-nhp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innate Lymphoid Cells in HIV/SIV Infections</title>
+      <link>https://reeveslab.github.io/publication/ilc-hiv/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/ilc-hiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

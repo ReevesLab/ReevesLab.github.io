@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Itell on Reeves &amp; Jost Labs</title>
+    <link>https://reeveslab.github.io/authors/hannah-itell/</link>
+    <description>Recent content in Hannah Itell on Reeves &amp; Jost Labs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://reeveslab.github.io/authors/hannah-itell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CMV Primes Functional Alternative Signaling in Adaptive Δg NK Cells but Is Subverted by Lentivirus Infection in Rhesus Macaques</title>
+      <link>https://reeveslab.github.io/publication/deltag/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/deltag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking KLRC2 (NKG2C)&#43; memory-like NK cells in SIV&#43; and rhCMV&#43; rhesus macaques.</title>
+      <link>https://reeveslab.github.io/publication/klrc2/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/klrc2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
