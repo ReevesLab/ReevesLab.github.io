@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reeves Lab</title>
-    <link>https://reeveslab.github.io/authors/kyle/</link>
+    <link>/authors/kyle/</link>
     <description>Recent content on Reeves Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/authors/kyle/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/kyle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://reeveslab.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;Hello and welcome to the new home for the Reeves Lab!&lt;/p&gt;
 
 &lt;p&gt;The goal here is to highlight the work that we here are doing so that we can reach a broad audience with our research into natural killer cells and HIV/SIV!&lt;/p&gt;
@@ -25,37 +25,37 @@
     
     <item>
       <title>CMV Primes Functional Alternative Signaling in Adaptive Δg NK Cells but Is Subverted by Lentivirus Infection in Rhesus Macaques</title>
-      <link>https://reeveslab.github.io/publication/deltag/</link>
+      <link>/publication/deltag/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/deltag/</guid>
+      <guid>/publication/deltag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indirect activation of rhesus macaque (Macaca mulatta) NK cells in oral and mucosal draining lymph nodes.</title>
-      <link>https://reeveslab.github.io/publication/oln/</link>
+      <link>/publication/oln/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/oln/</guid>
+      <guid>/publication/oln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive lentivirus infection induces natural killer cell receptor-expressing B cells in the gastrointestinal tract</title>
-      <link>https://reeveslab.github.io/publication/nkb/</link>
+      <link>/publication/nkb/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/nkb/</guid>
+      <guid>/publication/nkb/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/kyle/</link>
+      <link>/authors/kyle/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/kyle/</guid>
+      <guid>/authors/kyle/</guid>
       <description></description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NHP models on Reeves Lab</title>
-    <link>https://reeveslab.github.io/tags/nhp-models/</link>
+    <link>/tags/nhp-models/</link>
     <description>Recent content in NHP models on Reeves Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/tags/nhp-models/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/nhp-models/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SIV infection modulates CD94 (KLRD1)&#43; NK cells in rhesus macaques.</title>
-      <link>https://reeveslab.github.io/publication/siv_cd94/</link>
+      <link>/publication/siv_cd94/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/siv_cd94/</guid>
+      <guid>/publication/siv_cd94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monkeying Around: Using Non-human Primate Models to Study NK Cell Biology in HIV Infections</title>
-      <link>https://reeveslab.github.io/publication/monkeyingaround/</link>
+      <link>/publication/monkeyingaround/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/monkeyingaround/</guid>
+      <guid>/publication/monkeyingaround/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking KLRC2 (NKG2C)&#43; memory-like NK cells in SIV&#43; and rhCMV&#43; rhesus macaques.</title>
-      <link>https://reeveslab.github.io/publication/klrc2/</link>
+      <link>/publication/klrc2/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/klrc2/</guid>
+      <guid>/publication/klrc2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innate Lymphoid Cells in HIV/SIV Infections</title>
-      <link>https://reeveslab.github.io/publication/ilc-hiv/</link>
+      <link>/publication/ilc-hiv/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/ilc-hiv/</guid>
+      <guid>/publication/ilc-hiv/</guid>
       <description></description>
     </item>
     

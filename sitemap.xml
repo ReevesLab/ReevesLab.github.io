@@ -3,318 +3,318 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://reeveslab.github.io/project/cytodrav/</loc>
+    <loc>/project/cytodrav/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/tags/programming/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/project/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/tags/rnaseq/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/</loc>
+    <loc>/tags/rnaseq/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/tags/</loc>
+    <loc>/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/project/transcriptomic-clones/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/tags/transcriptomics/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kyle/</loc>
+    <loc>/project/transcriptomic-clones/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/transcriptomics/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kyle/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/</loc>
-    <lastmod>2019-06-24T14:12:41-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/tags/blog/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/categories/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/categories/misc/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/post/</loc>
+    <loc>/categories/misc/</loc>
+    <lastmod>2019-06-24T14:12:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/post/welcome/</loc>
+    <loc>/post/welcome/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/brady/</loc>
+    <loc>/authors/brady/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/daniel/</loc>
+    <loc>/authors/daniel/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/keith/</loc>
+    <loc>/authors/keith/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/olivier/</loc>
+    <loc>/authors/olivier/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication_types/2/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/tags/nhp-models/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/tags/primary-research/</loc>
+    <loc>/tags/nhp-models/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication_types/</loc>
+    <loc>/tags/primary-research/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/</loc>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/siv_cd94/</loc>
+    <loc>/publication/siv_cd94/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/cordelia/</loc>
+    <loc>/authors/cordelia/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/spandan/</loc>
+    <loc>/authors/spandan/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/guido-ferrari/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/junsuke-nohara/</loc>
+    <loc>/authors/guido-ferrari/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/monkeyingaround/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/tags/review-article/</loc>
+    <loc>/authors/junsuke-nohara/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/josh/</loc>
+    <loc>/publication/monkeyingaround/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/review-article/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/josh/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jost/</loc>
+    <loc>/authors/jost/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/haley-dugan/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/tags/memory-nk/</loc>
+    <loc>/authors/haley-dugan/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/sema7a/</loc>
+    <loc>/tags/memory-nk/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/sema7a/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/roadmap/</loc>
+    <loc>/publication/roadmap/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/tags/therapeutics/</loc>
+    <loc>/tags/therapeutics/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/deltag/</loc>
+    <loc>/publication/deltag/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/cytokine-nhp/</loc>
+    <loc>/publication/cytokine-nhp/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dan-h.-barouch/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/hannah-itell/</loc>
+    <loc>/authors/dan-h.-barouch/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/nichole-r.-klatt/</loc>
+    <loc>/authors/hannah-itell/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sallie-r.-permar/</loc>
+    <loc>/authors/nichole-r.-klatt/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/oln/</loc>
+    <loc>/authors/sallie-r.-permar/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/oln/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rhianna/</loc>
+    <loc>/authors/rhianna/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/scott/</loc>
+    <loc>/authors/scott/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/val/</loc>
+    <loc>/authors/val/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chiadika-nwanze/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/paul-goepfert/</loc>
+    <loc>/authors/chiadika-nwanze/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/nkb/</loc>
+    <loc>/authors/paul-goepfert/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/nkb/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/klrc2/</loc>
+    <loc>/publication/klrc2/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/publication/ilc-hiv/</loc>
+    <loc>/publication/ilc-hiv/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reeves/</loc>
+    <loc>/authors/reeves/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/allie/</loc>
+    <loc>/authors/allie/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/somai/</loc>
+    <loc>/authors/somai/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/stephaniee/</loc>
+    <loc>/authors/stephaniee/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/taylor/</loc>
+    <loc>/authors/taylor/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/joshua/</loc>
+    <loc>/authors/joshua/</loc>
     <priority>0</priority>
   </url>
   
