@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reeves &amp; Jost Labs</title>
-    <link>/authors/reeves/</link>
+    <link>https://reeveslab.github.io/authors/reeves/</link>
     <description>Recent content on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/authors/reeves/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/authors/reeves/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/reeves/</link>
+      <link>https://reeveslab.github.io/authors/reeves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/reeves/</guid>
+      <guid>https://reeveslab.github.io/authors/reeves/</guid>
       <description>&lt;p&gt;Our lab’s research has provided comprehensive characterizations of NK cells in nonhuman primate species and revealed significant heterogeneity among NK cells in tissues outside peripheral blood, including identification of previously unknown subpopulations of NK cells in tissues. Notably, we were the first to characterize IL-17/IL-22-producing NKp44+ mucosa-restricted NK cells in macaque species, and were the first to delineate mechanisms of depletion of these cells during lentivirus infections. We have also recently presented the first evidence of NK cell memory in any primate species.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/keith/</link>
+      <link>https://reeveslab.github.io/authors/keith/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/keith/</guid>
+      <guid>https://reeveslab.github.io/authors/keith/</guid>
       <description>&lt;p&gt;My lab’s research has provided comprehensive characterizations of NK cells in nonhuman primate species and revealed significant heterogeneity among NK cells in tissues outside peripheral blood, including identification of previously unknown subpopulations of NK cells in tissues. Notably, we were the first to characterize IL-17/IL-22-producing NKp44+ mucosa-restricted NK cells in macaque species, and were the first to delineate mechanisms of depletion of these cells during lentivirus infections. We have also recently presented the first evidence of NK cell memory in any primate species.&lt;/p&gt;
 </description>
     </item>

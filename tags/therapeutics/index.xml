@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Therapeutics on Reeves &amp; Jost Labs</title>
-    <link>/tags/therapeutics/</link>
+    <link>https://reeveslab.github.io/tags/therapeutics/</link>
     <description>Recent content in Therapeutics on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/therapeutics/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/tags/therapeutics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adaptive NK cell responses in HIV/SIV infections: A roadmap to cell-based therapeutics?</title>
-      <link>/publication/roadmap/</link>
+      <link>https://reeveslab.github.io/publication/roadmap/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/roadmap/</guid>
+      <guid>https://reeveslab.github.io/publication/roadmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cytokine-Mediated Tissue Injury in Non-human Primate Models of Viral Infections.</title>
-      <link>/publication/cytokine-nhp/</link>
+      <link>https://reeveslab.github.io/publication/cytokine-nhp/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cytokine-nhp/</guid>
+      <guid>https://reeveslab.github.io/publication/cytokine-nhp/</guid>
       <description></description>
     </item>
     
