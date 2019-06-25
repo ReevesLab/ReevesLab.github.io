@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reeves Lab</title>
+    <link>https://reeveslab.github.io/authors/olivier/</link>
+    <description>Recent content on Reeves Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://reeveslab.github.io/authors/olivier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIV infection modulates CD94 (KLRD1)&#43; NK cells in rhesus macaques.</title>
+      <link>https://reeveslab.github.io/publication/siv_cd94/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/siv_cd94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semaphorin 7A modulates cytokine-induced memory-like responses by human natural killer cells.</title>
+      <link>https://reeveslab.github.io/publication/sema7a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/sema7a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive NK cell responses in HIV/SIV infections: A roadmap to cell-based therapeutics?</title>
+      <link>https://reeveslab.github.io/publication/roadmap/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytokine-Mediated Tissue Injury in Non-human Primate Models of Viral Infections.</title>
+      <link>https://reeveslab.github.io/publication/cytokine-nhp/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/publication/cytokine-nhp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://reeveslab.github.io/authors/olivier/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/authors/olivier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
