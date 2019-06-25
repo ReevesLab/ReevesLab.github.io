@@ -2,284 +2,287 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Reeves &amp; Jost Labs</title>
-    <link>https://reeveslab.github.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/kyle/</link>
+      <link>/authors/kyle/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/kyle/</guid>
+      <guid>/authors/kyle/</guid>
+      <description>&lt;p&gt;Soon-to be masters student of bioinformatics at the University of Maryland University College. Research interests include: transcriptomic profiling of memory-like NK cells, transcriptomic modulation during viral infection, and automated analyses of flow cytometry data.&lt;/p&gt;
+
+&lt;p&gt;Outside of the lab I enjoy competitive strength sports, hiking, and cycling around the Fells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/brady/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brady/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/brady/</link>
+      <link>/authors/daniel/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/brady/</guid>
+      <guid>/authors/daniel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/daniel/</link>
+      <link>/authors/keith/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/daniel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://reeveslab.github.io/authors/keith/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://reeveslab.github.io/authors/keith/</guid>
+      <guid>/authors/keith/</guid>
       <description>&lt;p&gt;My lab’s research has provided comprehensive characterizations of NK cells in nonhuman primate species and revealed significant heterogeneity among NK cells in tissues outside peripheral blood, including identification of previously unknown subpopulations of NK cells in tissues. Notably, we were the first to characterize IL-17/IL-22-producing NKp44+ mucosa-restricted NK cells in macaque species, and were the first to delineate mechanisms of depletion of these cells during lentivirus infections. We have also recently presented the first evidence of NK cell memory in any primate species.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/olivier/</link>
+      <link>/authors/olivier/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/olivier/</guid>
+      <guid>/authors/olivier/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/cordelia/</link>
+      <link>/authors/cordelia/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/cordelia/</guid>
+      <guid>/authors/cordelia/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/spandan/</link>
+      <link>/authors/spandan/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/spandan/</guid>
+      <guid>/authors/spandan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guido Ferrari</title>
-      <link>https://reeveslab.github.io/authors/guido-ferrari/</link>
+      <link>/authors/guido-ferrari/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/guido-ferrari/</guid>
+      <guid>/authors/guido-ferrari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Junsuke Nohara</title>
-      <link>https://reeveslab.github.io/authors/junsuke-nohara/</link>
+      <link>/authors/junsuke-nohara/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/junsuke-nohara/</guid>
+      <guid>/authors/junsuke-nohara/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/josh/</link>
+      <link>/authors/josh/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/josh/</guid>
+      <guid>/authors/josh/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/jost/</link>
+      <link>/authors/jost/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/jost/</guid>
+      <guid>/authors/jost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haley Dugan</title>
-      <link>https://reeveslab.github.io/authors/haley-dugan/</link>
+      <link>/authors/haley-dugan/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/haley-dugan/</guid>
+      <guid>/authors/haley-dugan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dan H. Barouch</title>
-      <link>https://reeveslab.github.io/authors/dan-h.-barouch/</link>
+      <link>/authors/dan-h.-barouch/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/dan-h.-barouch/</guid>
+      <guid>/authors/dan-h.-barouch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hannah Itell</title>
-      <link>https://reeveslab.github.io/authors/hannah-itell/</link>
+      <link>/authors/hannah-itell/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/hannah-itell/</guid>
+      <guid>/authors/hannah-itell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nichole R. Klatt</title>
-      <link>https://reeveslab.github.io/authors/nichole-r.-klatt/</link>
+      <link>/authors/nichole-r.-klatt/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/nichole-r.-klatt/</guid>
+      <guid>/authors/nichole-r.-klatt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sallie R. Permar</title>
-      <link>https://reeveslab.github.io/authors/sallie-r.-permar/</link>
+      <link>/authors/sallie-r.-permar/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/sallie-r.-permar/</guid>
+      <guid>/authors/sallie-r.-permar/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/rhianna/</link>
+      <link>/authors/rhianna/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/rhianna/</guid>
+      <guid>/authors/rhianna/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/scott/</link>
+      <link>/authors/scott/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/scott/</guid>
+      <guid>/authors/scott/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/val/</link>
+      <link>/authors/val/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/val/</guid>
+      <guid>/authors/val/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chiadika Nwanze</title>
-      <link>https://reeveslab.github.io/authors/chiadika-nwanze/</link>
+      <link>/authors/chiadika-nwanze/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/chiadika-nwanze/</guid>
+      <guid>/authors/chiadika-nwanze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Goepfert</title>
-      <link>https://reeveslab.github.io/authors/paul-goepfert/</link>
+      <link>/authors/paul-goepfert/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/paul-goepfert/</guid>
+      <guid>/authors/paul-goepfert/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/reeves/</link>
+      <link>/authors/reeves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/reeves/</guid>
+      <guid>/authors/reeves/</guid>
       <description>&lt;p&gt;Our lab’s research has provided comprehensive characterizations of NK cells in nonhuman primate species and revealed significant heterogeneity among NK cells in tissues outside peripheral blood, including identification of previously unknown subpopulations of NK cells in tissues. Notably, we were the first to characterize IL-17/IL-22-producing NKp44+ mucosa-restricted NK cells in macaque species, and were the first to delineate mechanisms of depletion of these cells during lentivirus infections. We have also recently presented the first evidence of NK cell memory in any primate species.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/allie/</link>
+      <link>/authors/allie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/allie/</guid>
+      <guid>/authors/allie/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/mercay/</link>
+      <link>/authors/mercay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/mercay/</guid>
+      <guid>/authors/mercay/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/michelle/</link>
+      <link>/authors/michelle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/michelle/</guid>
+      <guid>/authors/michelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/rachel/</link>
+      <link>/authors/rachel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/rachel/</guid>
+      <guid>/authors/rachel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/somai/</link>
+      <link>/authors/somai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/somai/</guid>
+      <guid>/authors/somai/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/stephaniee/</link>
+      <link>/authors/stephaniee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/stephaniee/</guid>
+      <guid>/authors/stephaniee/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/taylor/</link>
+      <link>/authors/taylor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/taylor/</guid>
+      <guid>/authors/taylor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>joshua</title>
-      <link>https://reeveslab.github.io/authors/joshua/</link>
+      <link>/authors/joshua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/joshua/</guid>
+      <guid>/authors/joshua/</guid>
       <description></description>
     </item>
     
