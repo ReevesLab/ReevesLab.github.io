@@ -1,76 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <title>Tags on Reeves Lab</title>
+    <link>https://reeveslab.github.io/tags/</link>
+    <description>Recent content in Tags on Reeves Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Programming</title>
+      <link>https://reeveslab.github.io/tags/programming/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>https://reeveslab.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>RNAseq</title>
+      <link>https://reeveslab.github.io/tags/rnaseq/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://reeveslab.github.io/tags/rnaseq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Transcriptomics</title>
+      <link>https://reeveslab.github.io/tags/transcriptomics/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>https://reeveslab.github.io/tags/transcriptomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Blog</title>
+      <link>https://reeveslab.github.io/tags/blog/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://reeveslab.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>NHP models</title>
+      <link>https://reeveslab.github.io/tags/nhp-models/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://reeveslab.github.io/tags/nhp-models/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Primary Research</title>
+      <link>https://reeveslab.github.io/tags/primary-research/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://reeveslab.github.io/tags/primary-research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Review Article</title>
+      <link>https://reeveslab.github.io/tags/review-article/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://reeveslab.github.io/tags/review-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory NK</title>
+      <link>https://reeveslab.github.io/tags/memory-nk/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/tags/memory-nk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapeutics</title>
+      <link>https://reeveslab.github.io/tags/therapeutics/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/tags/therapeutics/</guid>
       <description></description>
     </item>
     
