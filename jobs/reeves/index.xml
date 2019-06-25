@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reeves Lab on Reeves &amp; Jost Labs</title>
+    <title>Open Positions on Reeves &amp; Jost Labs</title>
     <link>https://reeveslab.github.io/jobs/reeves/</link>
-    <description>Recent content in Reeves Lab on Reeves &amp; Jost Labs</description>
+    <description>Recent content in Open Positions on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
@@ -12,22 +12,62 @@
     
     
     <item>
-      <title>Research Assistant I</title>
-      <link>https://reeveslab.github.io/jobs/reeves/example1/</link>
+      <title>Flow Cytometry Tech</title>
+      <link>https://reeveslab.github.io/jobs/reeves/flow_1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://reeveslab.github.io/jobs/reeves/example1/</guid>
+      <guid>https://reeveslab.github.io/jobs/reeves/flow_1/</guid>
+      <description>&lt;p&gt;Description of position&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Assistant I</title>
+      <link>https://reeveslab.github.io/jobs/reeves/jost_1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://reeveslab.github.io/jobs/reeves/jost_1/</guid>
+      <description>&lt;p&gt;Description of position&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Assistant I</title>
+      <link>https://reeveslab.github.io/jobs/reeves/reeves_rai/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://reeveslab.github.io/jobs/reeves/reeves_rai/</guid>
       <description>&lt;p&gt;Description of position&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lab Manager</title>
-      <link>https://reeveslab.github.io/jobs/reeves/example2/</link>
+      <link>https://reeveslab.github.io/jobs/reeves/jost_2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://reeveslab.github.io/jobs/reeves/example2/</guid>
+      <guid>https://reeveslab.github.io/jobs/reeves/jost_2/</guid>
+      <description>&lt;p&gt;Placeholder&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab Manager</title>
+      <link>https://reeveslab.github.io/jobs/reeves/reeves_manager/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://reeveslab.github.io/jobs/reeves/reeves_manager/</guid>
       <description>&lt;p&gt;Finally going to replace Val.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety Officer</title>
+      <link>https://reeveslab.github.io/jobs/reeves/flow_2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://reeveslab.github.io/jobs/reeves/flow_2/</guid>
+      <description>&lt;p&gt;Just an example&lt;/p&gt;
 </description>
     </item>
     

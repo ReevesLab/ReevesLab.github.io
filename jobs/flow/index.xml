@@ -2,34 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flow Core on Reeves &amp; Jost Labs</title>
-    <link>https://reeveslab.github.io/jobs/flow/</link>
+    <link>/jobs/flow/</link>
     <description>Recent content in Flow Core on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/jobs/flow/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/jobs/flow/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Flow Cytometry Tech</title>
-      <link>https://reeveslab.github.io/jobs/flow/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://reeveslab.github.io/jobs/flow/example1/</guid>
-      <description>&lt;p&gt;Description of position&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Safety Officer</title>
-      <link>https://reeveslab.github.io/jobs/flow/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://reeveslab.github.io/jobs/flow/example2/</guid>
-      <description>&lt;p&gt;Just an example&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

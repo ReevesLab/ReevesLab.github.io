@@ -3,28 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/flow/example1/</loc>
+    <loc>https://reeveslab.github.io/jobs/reeves/flow_1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/jost/example1/</loc>
+    <loc>https://reeveslab.github.io/jobs/reeves/jost_1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/reeves/example1/</loc>
+    <loc>https://reeveslab.github.io/jobs/reeves/reeves_rai/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/jobs/flow/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/jobs/jost/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +23,17 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/jost/example2/</loc>
+    <loc>https://reeveslab.github.io/jobs/reeves/jost_2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/reeves/example2/</loc>
+    <loc>https://reeveslab.github.io/jobs/reeves/reeves_manager/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/flow/example2/</loc>
+    <loc>https://reeveslab.github.io/jobs/reeves/flow_2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -371,11 +361,11 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/gallery/</loc>
+    <loc>https://reeveslab.github.io/jobs/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/jobs/</loc>
+    <loc>https://reeveslab.github.io/gallery/</loc>
   </url>
   
   <url>

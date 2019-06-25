@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jost Lab on Reeves &amp; Jost Labs</title>
-    <link>https://reeveslab.github.io/jobs/jost/</link>
+    <link>/jobs/jost/</link>
     <description>Recent content in Jost Lab on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/jobs/jost/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/jobs/jost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research Assistant I</title>
-      <link>https://reeveslab.github.io/jobs/jost/example1/</link>
+      <link>/jobs/jost/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://reeveslab.github.io/jobs/jost/example1/</guid>
+      <guid>/jobs/jost/example1/</guid>
       <description>&lt;p&gt;Description of position&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lab Manager</title>
-      <link>https://reeveslab.github.io/jobs/jost/example2/</link>
+      <link>/jobs/jost/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://reeveslab.github.io/jobs/jost/example2/</guid>
+      <guid>/jobs/jost/example2/</guid>
       <description>&lt;p&gt;Placeholder&lt;/p&gt;
 </description>
     </item>
