@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reeves Lab</title>
-    <link>/authors/brady/</link>
+    <link>https://reeveslab.github.io/authors/brady/</link>
     <description>Recent content on Reeves Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/brady/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/authors/brady/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SIV infection modulates CD94 (KLRD1)&#43; NK cells in rhesus macaques.</title>
-      <link>/publication/siv_cd94/</link>
+      <link>https://reeveslab.github.io/publication/siv_cd94/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/siv_cd94/</guid>
+      <guid>https://reeveslab.github.io/publication/siv_cd94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive lentivirus infection induces natural killer cell receptor-expressing B cells in the gastrointestinal tract</title>
-      <link>/publication/nkb/</link>
+      <link>https://reeveslab.github.io/publication/nkb/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nkb/</guid>
+      <guid>https://reeveslab.github.io/publication/nkb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking KLRC2 (NKG2C)&#43; memory-like NK cells in SIV&#43; and rhCMV&#43; rhesus macaques.</title>
-      <link>/publication/klrc2/</link>
+      <link>https://reeveslab.github.io/publication/klrc2/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/klrc2/</guid>
+      <guid>https://reeveslab.github.io/publication/klrc2/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/brady/</link>
+      <link>https://reeveslab.github.io/authors/brady/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/brady/</guid>
+      <guid>https://reeveslab.github.io/authors/brady/</guid>
       <description></description>
     </item>
     
