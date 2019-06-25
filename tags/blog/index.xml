@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Reeves Lab</title>
-    <link>https://reeveslab.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Reeves Lab</description>
+    <title>Blog on Reeves &amp; Jost Labs</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://reeveslab.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;Hello and welcome to the new home for the Reeves Lab!&lt;/p&gt;
 
 &lt;p&gt;The goal here is to highlight the work that we here are doing so that we can reach a broad audience with our research into natural killer cells and HIV/SIV!&lt;/p&gt;

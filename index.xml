@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reeves Lab</title>
-    <link>https://reeveslab.github.io/</link>
-    <description>Recent content on Reeves Lab</description>
+    <title>Reeves &amp; Jost Labs</title>
+    <link>/</link>
+    <description>Recent content on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CytoDRAV</title>
-      <link>https://reeveslab.github.io/project/cytodrav/</link>
+      <link>/project/cytodrav/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/project/cytodrav/</guid>
+      <guid>/project/cytodrav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptomic Signatures of HIV-specific NK Clones</title>
-      <link>https://reeveslab.github.io/project/transcriptomic-clones/</link>
+      <link>/project/transcriptomic-clones/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/project/transcriptomic-clones/</guid>
+      <guid>/project/transcriptomic-clones/</guid>
       <description>&lt;p&gt;One of the projects here at the Reeves Lab involves cloning NK populations from single NK cells. We utilize two methods for this assay: limiting serial dilutions and sorting. Cells are cultured with feeder cells, irradiated autologous PBMCs and IL-2. After ~4-6 weeks the cell cultures have grown enough in size to phenotypically and functionally characterize.&lt;/p&gt;
 
 &lt;p&gt;One interesting result we have seen is that some clonal populations from PLWH is that they respond in a greater magnitude to Env or Gag presenting autologous BLCLs. We are using multiple approaches to try and determine what transcriptomic or proteomic changes are occuring that infer memory like responses to these clones.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Welcome</title>
-      <link>https://reeveslab.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;Hello and welcome to the new home for the Reeves Lab!&lt;/p&gt;
 
 &lt;p&gt;The goal here is to highlight the work that we here are doing so that we can reach a broad audience with our research into natural killer cells and HIV/SIV!&lt;/p&gt;
@@ -46,91 +46,91 @@
     
     <item>
       <title>SIV infection modulates CD94 (KLRD1)&#43; NK cells in rhesus macaques.</title>
-      <link>https://reeveslab.github.io/publication/siv_cd94/</link>
+      <link>/publication/siv_cd94/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/siv_cd94/</guid>
+      <guid>/publication/siv_cd94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monkeying Around: Using Non-human Primate Models to Study NK Cell Biology in HIV Infections</title>
-      <link>https://reeveslab.github.io/publication/monkeyingaround/</link>
+      <link>/publication/monkeyingaround/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/monkeyingaround/</guid>
+      <guid>/publication/monkeyingaround/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semaphorin 7A modulates cytokine-induced memory-like responses by human natural killer cells.</title>
-      <link>https://reeveslab.github.io/publication/sema7a/</link>
+      <link>/publication/sema7a/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/sema7a/</guid>
+      <guid>/publication/sema7a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive NK cell responses in HIV/SIV infections: A roadmap to cell-based therapeutics?</title>
-      <link>https://reeveslab.github.io/publication/roadmap/</link>
+      <link>/publication/roadmap/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/roadmap/</guid>
+      <guid>/publication/roadmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMV Primes Functional Alternative Signaling in Adaptive Δg NK Cells but Is Subverted by Lentivirus Infection in Rhesus Macaques</title>
-      <link>https://reeveslab.github.io/publication/deltag/</link>
+      <link>/publication/deltag/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/deltag/</guid>
+      <guid>/publication/deltag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cytokine-Mediated Tissue Injury in Non-human Primate Models of Viral Infections.</title>
-      <link>https://reeveslab.github.io/publication/cytokine-nhp/</link>
+      <link>/publication/cytokine-nhp/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/cytokine-nhp/</guid>
+      <guid>/publication/cytokine-nhp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indirect activation of rhesus macaque (Macaca mulatta) NK cells in oral and mucosal draining lymph nodes.</title>
-      <link>https://reeveslab.github.io/publication/oln/</link>
+      <link>/publication/oln/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/oln/</guid>
+      <guid>/publication/oln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive lentivirus infection induces natural killer cell receptor-expressing B cells in the gastrointestinal tract</title>
-      <link>https://reeveslab.github.io/publication/nkb/</link>
+      <link>/publication/nkb/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/nkb/</guid>
+      <guid>/publication/nkb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking KLRC2 (NKG2C)&#43; memory-like NK cells in SIV&#43; and rhCMV&#43; rhesus macaques.</title>
-      <link>https://reeveslab.github.io/publication/klrc2/</link>
+      <link>/publication/klrc2/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/klrc2/</guid>
+      <guid>/publication/klrc2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innate Lymphoid Cells in HIV/SIV Infections</title>
-      <link>https://reeveslab.github.io/publication/ilc-hiv/</link>
+      <link>/publication/ilc-hiv/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/publication/ilc-hiv/</guid>
+      <guid>/publication/ilc-hiv/</guid>
       <description></description>
     </item>
     
