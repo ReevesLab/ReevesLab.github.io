@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reeves &amp; Jost Labs</title>
-    <link>https://reeveslab.github.io/authors/nwokike/</link>
+    <link>/authors/nwokike/</link>
     <description>Recent content on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://reeveslab.github.io/authors/nwokike/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/nwokike/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
