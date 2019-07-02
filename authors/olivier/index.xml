@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reeves &amp; Jost Labs</title>
+    <title>olivier on Reeves &amp; Jost Labs</title>
     <link>https://reeveslab.github.io/authors/olivier/</link>
-    <description>Recent content on Reeves &amp; Jost Labs</description>
+    <description>Recent content in olivier on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
@@ -12,11 +12,12 @@
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/olivier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://reeveslab.github.io/authors/lucar/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/olivier/</guid>
-      <description></description>
+      <guid>https://reeveslab.github.io/authors/lucar/</guid>
+      <description>&lt;p&gt;Exploring the relationship between NK cells and HIV infection in order to understand the development of NK cells antigen-specific responses.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -84,11 +84,6 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kyle/</loc>
-    <lastmod>2019-06-24T14:12:41-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://reeveslab.github.io/authors/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
     <priority>0</priority>
@@ -123,19 +118,33 @@
   </url>
   
   <url>
+    <loc>https://reeveslab.github.io/authors/kyle/</loc>
+    <lastmod>2019-06-24T14:12:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/hueber/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/lucar/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/ram/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/reeves/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://reeveslab.github.io/publication_types/2/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/hueber-b/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/lucar-o/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -152,36 +161,34 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ram-dr/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/reeves-rk/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://reeveslab.github.io/publication/31167916/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ackerman-me/</loc>
+    <loc>https://reeveslab.github.io/authors/manickam/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/shah/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/ackerman/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ferrari-g/</loc>
+    <loc>https://reeveslab.github.io/authors/ferrari/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kent-sj/</loc>
+    <loc>https://reeveslab.github.io/authors/kent/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -192,13 +199,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lewis-gk/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/manickam/</loc>
+    <loc>https://reeveslab.github.io/authors/lewis/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -209,61 +210,53 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/moog-c/</loc>
+    <loc>https://reeveslab.github.io/authors/moog/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/nohara-j/</loc>
+    <loc>https://reeveslab.github.io/authors/nohara/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/overbaugh-j/</loc>
+    <loc>https://reeveslab.github.io/authors/overbaugh/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/robert-guroff-m/</loc>
+    <loc>https://reeveslab.github.io/authors/robert-guroff/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/scarlatti-g/</loc>
+    <loc>https://reeveslab.github.io/authors/scarlatti/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/shah-sv/</loc>
+    <loc>https://reeveslab.github.io/authors/thyagarajan/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/thyagarajan-b/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/dugan-h/</loc>
+    <loc>https://reeveslab.github.io/authors/ghofrani/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ghofrani-j/</loc>
+    <loc>https://reeveslab.github.io/authors/jost/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jost-s/</loc>
+    <loc>https://reeveslab.github.io/authors/dugan/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -274,19 +267,12 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kroll-k/</loc>
+    <loc>https://reeveslab.github.io/authors/kroll/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/li-h/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/manickam-c/</loc>
+    <loc>https://reeveslab.github.io/authors/li/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -302,7 +288,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/barouch-dh/</loc>
+    <loc>https://reeveslab.github.io/authors/barouch/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -318,55 +304,55 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/itell-h/</loc>
+    <loc>https://reeveslab.github.io/authors/itell/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/klatt-nr/</loc>
+    <loc>https://reeveslab.github.io/authors/klatt/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/permar-sr/</loc>
+    <loc>https://reeveslab.github.io/authors/permar/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/brenchley-jm/</loc>
+    <loc>https://reeveslab.github.io/authors/brenchley/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/busman-sahay-k/</loc>
+    <loc>https://reeveslab.github.io/authors/busman-sahay/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/cameron-m/</loc>
+    <loc>https://reeveslab.github.io/authors/cameron/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/deleage-c/</loc>
+    <loc>https://reeveslab.github.io/authors/deleage/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dinapoli-sr/</loc>
+    <loc>https://reeveslab.github.io/authors/dinapoli/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/estes-jd/</loc>
+    <loc>https://reeveslab.github.io/authors/estes/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -382,67 +368,71 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lai-s/</loc>
+    <loc>https://reeveslab.github.io/authors/lai/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lisco-a/</loc>
+    <loc>https://reeveslab.github.io/authors/lisco/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mudd-jc/</loc>
+    <loc>https://reeveslab.github.io/authors/mudd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/paiardini-m/</loc>
+    <loc>https://reeveslab.github.io/authors/paiardini/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/palesch-dj/</loc>
+    <loc>https://reeveslab.github.io/authors/palesch/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/richardson-b/</loc>
+    <loc>https://reeveslab.github.io/authors/richardson/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sereti-i/</loc>
+    <loc>https://reeveslab.github.io/authors/sereti/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sheik-v/</loc>
+    <loc>https://reeveslab.github.io/authors/sheik/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/goepfert-p/</loc>
+    <loc>https://reeveslab.github.io/authors/jones/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/varner/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/goepfert/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jones-r/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/nwanze-c/</loc>
+    <loc>https://reeveslab.github.io/authors/nwanze/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -453,73 +443,67 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/smith-s/</loc>
+    <loc>https://reeveslab.github.io/authors/smith/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/varner-v/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/agricola-b/</loc>
+    <loc>https://reeveslab.github.io/authors/agricola/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/berard-ar/</loc>
+    <loc>https://reeveslab.github.io/authors/berard/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/burgener-ad/</loc>
+    <loc>https://reeveslab.github.io/authors/burgener/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gibson-ea/</loc>
+    <loc>https://reeveslab.github.io/authors/gibson/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gile-j/</loc>
+    <loc>https://reeveslab.github.io/authors/gile/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/henrich-tj/</loc>
+    <loc>https://reeveslab.github.io/authors/henrich/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hensley-mcbain-t/</loc>
+    <loc>https://reeveslab.github.io/authors/hensley-mcbain/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hobbs-k/</loc>
+    <loc>https://reeveslab.github.io/authors/hobbs/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hogan-le/</loc>
+    <loc>https://reeveslab.github.io/authors/hogan/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hu-sl/</loc>
+    <loc>https://reeveslab.github.io/authors/hu/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -530,37 +514,37 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/keele-bf/</loc>
+    <loc>https://reeveslab.github.io/authors/keele/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kuritzkes-dr/</loc>
+    <loc>https://reeveslab.github.io/authors/kuritzkes/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/korner-c/</loc>
+    <loc>https://reeveslab.github.io/authors/korner/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/manuzak-ja/</loc>
+    <loc>https://reeveslab.github.io/authors/manuzak/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/marty-fm/</loc>
+    <loc>https://reeveslab.github.io/authors/marty/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/miller-cj/</loc>
+    <loc>https://reeveslab.github.io/authors/miller/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -571,55 +555,55 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/palmer-cd/</loc>
+    <loc>https://reeveslab.github.io/authors/palmer/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/pandit-a/</loc>
+    <loc>https://reeveslab.github.io/authors/pandit/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/polacino-p/</loc>
+    <loc>https://reeveslab.github.io/authors/polacino/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ritz-j/</loc>
+    <loc>https://reeveslab.github.io/authors/ritz/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/simoneau-cr/</loc>
+    <loc>https://reeveslab.github.io/authors/simoneau/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/smedley-j/</loc>
+    <loc>https://reeveslab.github.io/authors/smedley/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/thanh-c/</loc>
+    <loc>https://reeveslab.github.io/authors/thanh/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/zevin-as/</loc>
+    <loc>https://reeveslab.github.io/authors/zevin/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/abramson-j/</loc>
+    <loc>https://reeveslab.github.io/authors/abramson/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -630,31 +614,31 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/aid-m/</loc>
+    <loc>https://reeveslab.github.io/authors/aid/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/badamchi-zadeh-a/</loc>
+    <loc>https://reeveslab.github.io/authors/badamchi-zadeh/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/blass-e/</loc>
+    <loc>https://reeveslab.github.io/authors/blass/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chettimada-s/</loc>
+    <loc>https://reeveslab.github.io/authors/chettimada/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dillon-st/</loc>
+    <loc>https://reeveslab.github.io/authors/dillon/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -665,25 +649,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gabuzda-d/</loc>
+    <loc>https://reeveslab.github.io/authors/gabuzda/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hamdan-a/</loc>
+    <loc>https://reeveslab.github.io/authors/hamdan/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hanhauser-e/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/hobbs-ks/</loc>
+    <loc>https://reeveslab.github.io/authors/hanhauser/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -694,73 +672,67 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/itell-hl/</loc>
+    <loc>https://reeveslab.github.io/authors/kang/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kang-zh/</loc>
+    <loc>https://reeveslab.github.io/authors/kirk/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kirk-gd/</loc>
+    <loc>https://reeveslab.github.io/authors/lacasce/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lacasce-as/</loc>
+    <loc>https://reeveslab.github.io/authors/larocca/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/larocca-ra/</loc>
+    <loc>https://reeveslab.github.io/authors/lorenz/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lorenz-dr/</loc>
+    <loc>https://reeveslab.github.io/authors/martinot/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/martinot-aj/</loc>
+    <loc>https://reeveslab.github.io/authors/mehta/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mehta-sh/</loc>
+    <loc>https://reeveslab.github.io/authors/misra/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/misra-v/</loc>
+    <loc>https://reeveslab.github.io/authors/morgello/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/morgello-s/</loc>
+    <loc>https://reeveslab.github.io/authors/penaloza-macmaster/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/penaloza-macmaster-p/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/robles-y/</loc>
+    <loc>https://reeveslab.github.io/authors/robles/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -771,13 +743,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bosinger-se/</loc>
+    <loc>https://reeveslab.github.io/authors/bosinger/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/huot-n/</loc>
+    <loc>https://reeveslab.github.io/authors/huot/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -788,19 +760,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/muller-trutwin-m/</loc>
+    <loc>https://reeveslab.github.io/authors/muller-trutwin/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/autissier-e/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/goepfert-pa/</loc>
+    <loc>https://reeveslab.github.io/authors/autissier/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -821,25 +787,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/derreudre-bosquet-n/</loc>
+    <loc>https://reeveslab.github.io/authors/derreudre-bosquet/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/garcia-tellez-t/</loc>
+    <loc>https://reeveslab.github.io/authors/garcia-tellez/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jacquelin-b/</loc>
+    <loc>https://reeveslab.github.io/authors/jacquelin/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/madec-y/</loc>
+    <loc>https://reeveslab.github.io/authors/madec/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -850,19 +816,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ploquin-mj/</loc>
+    <loc>https://reeveslab.github.io/authors/ploquin/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rascle-p/</loc>
+    <loc>https://reeveslab.github.io/authors/rascle/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/blish-ca/</loc>
+    <loc>https://reeveslab.github.io/authors/blish/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -873,13 +839,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jones-ra/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/paust-s/</loc>
+    <loc>https://reeveslab.github.io/authors/paust/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -890,37 +850,37 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/altfeld-m/</loc>
+    <loc>https://reeveslab.github.io/authors/altfeld/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/carrington-m/</loc>
+    <loc>https://reeveslab.github.io/authors/carrington/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chukwukelu-j/</loc>
+    <loc>https://reeveslab.github.io/authors/chukwukelu/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/corleis-b/</loc>
+    <loc>https://reeveslab.github.io/authors/corleis/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gandhi-rt/</loc>
+    <loc>https://reeveslab.github.io/authors/gandhi/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/granoff-m/</loc>
+    <loc>https://reeveslab.github.io/authors/granoff/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -936,79 +896,61 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/holzemer-a/</loc>
+    <loc>https://reeveslab.github.io/authors/holzemer/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kirchhoff-f/</loc>
+    <loc>https://reeveslab.github.io/authors/kirchhoff/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kwon-ds/</loc>
+    <loc>https://reeveslab.github.io/authors/kwon/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/leadabrand-ks/</loc>
+    <loc>https://reeveslab.github.io/authors/leadabrand/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/li-jz/</loc>
+    <loc>https://reeveslab.github.io/authors/lunemann/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lunemann-s/</loc>
+    <loc>https://reeveslab.github.io/authors/naranbhai/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/naranbhai-v/</loc>
+    <loc>https://reeveslab.github.io/authors/schommers/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/robles-yp/</loc>
+    <loc>https://reeveslab.github.io/authors/scully/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/schommers-p/</loc>
+    <loc>https://reeveslab.github.io/authors/ziegler/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/scully-e/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/scully-ep/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/ziegler-m/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/giavedoni-ld/</loc>
+    <loc>https://reeveslab.github.io/authors/giavedoni/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1019,55 +961,55 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wachtman-l/</loc>
+    <loc>https://reeveslab.github.io/authors/wachtman/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/adnan-s/</loc>
+    <loc>https://reeveslab.github.io/authors/adnan/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/camp-jv/</loc>
+    <loc>https://reeveslab.github.io/authors/camp/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chibnik-lb/</loc>
+    <loc>https://reeveslab.github.io/authors/chibnik/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/connole-m/</loc>
+    <loc>https://reeveslab.github.io/authors/connole/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/desrosiers-rc/</loc>
+    <loc>https://reeveslab.github.io/authors/desrosiers/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gillis-j/</loc>
+    <loc>https://reeveslab.github.io/authors/gillis/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/goldenthal-a/</loc>
+    <loc>https://reeveslab.github.io/authors/goldenthal/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/haase-at/</loc>
+    <loc>https://reeveslab.github.io/authors/haase/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1078,43 +1020,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/johnson-rp/</loc>
+    <loc>https://reeveslab.github.io/authors/johnson/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kozlowski-pa/</loc>
+    <loc>https://reeveslab.github.io/authors/kozlowski/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/li-q/</loc>
+    <loc>https://reeveslab.github.io/authors/lifson/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/li-w/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/li-y/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/lifson-jd/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/lockhart-a/</loc>
+    <loc>https://reeveslab.github.io/authors/lockhart/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1125,49 +1049,49 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/piatak-m/</loc>
+    <loc>https://reeveslab.github.io/authors/piatak/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/piechocka-trocha-a/</loc>
+    <loc>https://reeveslab.github.io/authors/piechocka-trocha/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/porichis-f/</loc>
+    <loc>https://reeveslab.github.io/authors/porichis/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/romero-tejeda-m/</loc>
+    <loc>https://reeveslab.github.io/authors/romero-tejeda/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/seaman-ms/</loc>
+    <loc>https://reeveslab.github.io/authors/seaman/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/walker-bd/</loc>
+    <loc>https://reeveslab.github.io/authors/walker/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wong-fe/</loc>
+    <loc>https://reeveslab.github.io/authors/wong/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/yu-y/</loc>
+    <loc>https://reeveslab.github.io/authors/yu/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1178,55 +1102,55 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kramer-ja/</loc>
+    <loc>https://reeveslab.github.io/authors/kramer/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rajakumar-p/</loc>
+    <loc>https://reeveslab.github.io/authors/rajakumar/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/alter-g/</loc>
+    <loc>https://reeveslab.github.io/authors/alter/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chung-aw/</loc>
+    <loc>https://reeveslab.github.io/authors/chung/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dechanet-merville-j/</loc>
+    <loc>https://reeveslab.github.io/authors/dechanet-merville/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/garcia-beltran-wf/</loc>
+    <loc>https://reeveslab.github.io/authors/garcia-beltran/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kim-te/</loc>
+    <loc>https://reeveslab.github.io/authors/kim/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lamothe-molina-pa/</loc>
+    <loc>https://reeveslab.github.io/authors/lamothe-molina/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/martrus-g/</loc>
+    <loc>https://reeveslab.github.io/authors/martrus/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1237,19 +1161,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/pacheco-y/</loc>
+    <loc>https://reeveslab.github.io/authors/pacheco/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/pertel-t/</loc>
+    <loc>https://reeveslab.github.io/authors/pertel/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rucevic-m/</loc>
+    <loc>https://reeveslab.github.io/authors/rucevic/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1260,43 +1184,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/katze-m/</loc>
+    <loc>https://reeveslab.github.io/authors/katze/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kraft-cs/</loc>
+    <loc>https://reeveslab.github.io/authors/kraft/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/langevin-s/</loc>
+    <loc>https://reeveslab.github.io/authors/langevin/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/manuzak-j/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/miller-c/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/smith-e/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/cubas-r/</loc>
+    <loc>https://reeveslab.github.io/authors/cubas/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1307,37 +1213,37 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/haddad-ek/</loc>
+    <loc>https://reeveslab.github.io/authors/haddad/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/patilea-g/</loc>
+    <loc>https://reeveslab.github.io/authors/patilea/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/richert-spuhler-l/</loc>
+    <loc>https://reeveslab.github.io/authors/richert-spuhler/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/allen-tm/</loc>
+    <loc>https://reeveslab.github.io/authors/allen/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gressens-sb/</loc>
+    <loc>https://reeveslab.github.io/authors/gressens/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gubbala-s/</loc>
+    <loc>https://reeveslab.github.io/authors/gubbala/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1353,31 +1259,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/salzberger-w/</loc>
+    <loc>https://reeveslab.github.io/authors/salzberger/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sharma-s/</loc>
+    <loc>https://reeveslab.github.io/authors/sharma/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/simoneau-c/</loc>
+    <loc>https://reeveslab.github.io/authors/sirignano/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sirignano-m/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/bosch-rj/</loc>
+    <loc>https://reeveslab.github.io/authors/bosch/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1388,14 +1288,8 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/harrison-lj/</loc>
+    <loc>https://reeveslab.github.io/authors/harrison/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/muller-trutwin-mc/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1405,19 +1299,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/schafer-jl/</loc>
+    <loc>https://reeveslab.github.io/authors/schafer/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/evans-ti/</loc>
+    <loc>https://reeveslab.github.io/authors/evans/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hao-xp/</loc>
+    <loc>https://reeveslab.github.io/authors/hao/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1428,7 +1322,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/traslavina-rp/</loc>
+    <loc>https://reeveslab.github.io/authors/traslavina/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1439,13 +1333,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/eslamizar-l/</loc>
+    <loc>https://reeveslab.github.io/authors/eslamizar/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/von-andrian-uh/</loc>
+    <loc>https://reeveslab.github.io/authors/von/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1456,7 +1350,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/billingsley-jm/</loc>
+    <loc>https://reeveslab.github.io/authors/billingsley/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1467,43 +1361,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/connole-ma/</loc>
+    <loc>https://reeveslab.github.io/authors/hong/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hong-hs/</loc>
+    <loc>https://reeveslab.github.io/authors/kuzmichev/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kang-hj/</loc>
+    <loc>https://reeveslab.github.io/authors/salisch/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kuzmichev-yv/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/rajakumar-pa/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/salisch-nc/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/becker-ea/</loc>
+    <loc>https://reeveslab.github.io/authors/becker/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1514,13 +1390,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/colantonio-ad/</loc>
+    <loc>https://reeveslab.github.io/authors/colantonio/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/oconnor-sl/</loc>
+    <loc>https://reeveslab.github.io/authors/oconnor/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1541,20 +1417,8 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kang-g/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://reeveslab.github.io/publication/25538700/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/richert-spuhler-le/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1563,25 +1427,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dandekar-s/</loc>
+    <loc>https://reeveslab.github.io/authors/dandekar/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/george-md/</loc>
+    <loc>https://reeveslab.github.io/authors/george/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hu-w/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/sankaran-walters-s/</loc>
+    <loc>https://reeveslab.github.io/authors/sankaran-walters/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1592,19 +1450,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/allen-t/</loc>
+    <loc>https://reeveslab.github.io/authors/arnold/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/arnold-kb/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/che-d/</loc>
+    <loc>https://reeveslab.github.io/authors/che/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1615,67 +1467,55 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lauffenburger-da/</loc>
+    <loc>https://reeveslab.github.io/authors/lauffenburger/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mayer-kh/</loc>
+    <loc>https://reeveslab.github.io/authors/mayer/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/tomassilli-j/</loc>
+    <loc>https://reeveslab.github.io/authors/tomassilli/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/alpert-md/</loc>
+    <loc>https://reeveslab.github.io/authors/alpert/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/amero-ma/</loc>
+    <loc>https://reeveslab.github.io/authors/amero/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/burton-dr/</loc>
+    <loc>https://reeveslab.github.io/authors/burton/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/carlis-jv/</loc>
+    <loc>https://reeveslab.github.io/authors/carlis/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/derdeyn-ca/</loc>
+    <loc>https://reeveslab.github.io/authors/derdeyn/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/duan-l/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/evans-dt/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/granoff-me/</loc>
+    <loc>https://reeveslab.github.io/authors/duan/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1686,7 +1526,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kohler-h/</loc>
+    <loc>https://reeveslab.github.io/authors/kohler/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1697,103 +1537,91 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/masek-hammerman-k/</loc>
+    <loc>https://reeveslab.github.io/authors/masek-hammerman/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/muller-s/</loc>
+    <loc>https://reeveslab.github.io/authors/muller/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/pambuccian-s/</loc>
+    <loc>https://reeveslab.github.io/authors/pambuccian/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reilly-cs/</loc>
+    <loc>https://reeveslab.github.io/authors/reilly/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/robinson-j/</loc>
+    <loc>https://reeveslab.github.io/authors/robinson/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rosenberg-es/</loc>
+    <loc>https://reeveslab.github.io/authors/rosenberg/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/shang-l/</loc>
+    <loc>https://reeveslab.github.io/authors/shang/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sirignano-mn/</loc>
+    <loc>https://reeveslab.github.io/authors/skinner/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/skinner-pj/</loc>
+    <loc>https://reeveslab.github.io/authors/southern/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/smith-aj/</loc>
+    <loc>https://reeveslab.github.io/authors/vaidya/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/southern-pj/</loc>
+    <loc>https://reeveslab.github.io/authors/voss/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/vaidya-sa/</loc>
+    <loc>https://reeveslab.github.io/authors/waterman/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/voss-je/</loc>
+    <loc>https://reeveslab.github.io/authors/wietgrefe/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/waterman-d/</loc>
+    <loc>https://reeveslab.github.io/authors/zeng/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wietgrefe-s/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/zeng-m/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/zupancic-ml/</loc>
+    <loc>https://reeveslab.github.io/authors/zupancic/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1804,19 +1632,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/perkey-ke/</loc>
+    <loc>https://reeveslab.github.io/authors/perkey/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/qu-l/</loc>
-    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/zupancic-m/</loc>
+    <loc>https://reeveslab.github.io/authors/qu/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1827,43 +1649,31 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lichterfeld-m/</loc>
+    <loc>https://reeveslab.github.io/authors/lichterfeld/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rands-k/</loc>
+    <loc>https://reeveslab.github.io/authors/rands/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/tomezsko-pj/</loc>
+    <loc>https://reeveslab.github.io/authors/tomezsko/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/toth-i/</loc>
+    <loc>https://reeveslab.github.io/authors/toth/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hong-jj/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/kim-ho/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/kinzel-nj/</loc>
+    <loc>https://reeveslab.github.io/authors/kinzel/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1874,25 +1684,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reilly-c/</loc>
+    <loc>https://reeveslab.github.io/authors/sasikala-appukuttan/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sasikala-appukuttan-ak/</loc>
+    <loc>https://reeveslab.github.io/authors/wagstaff/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wagstaff-r/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/carville-a/</loc>
+    <loc>https://reeveslab.github.io/authors/carville/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1903,55 +1707,49 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/blaney-je/</loc>
+    <loc>https://reeveslab.github.io/authors/blaney/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bollinger-l/</loc>
+    <loc>https://reeveslab.github.io/authors/bollinger/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/cohen-m/</loc>
+    <loc>https://reeveslab.github.io/authors/cohen/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jahrling-pb/</loc>
+    <loc>https://reeveslab.github.io/authors/jahrling/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/janosko-k/</loc>
+    <loc>https://reeveslab.github.io/authors/janosko/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jennings-g/</loc>
+    <loc>https://reeveslab.github.io/authors/jennings/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jett-c/</loc>
+    <loc>https://reeveslab.github.io/authors/jett/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/johnson-r/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/josleyn-n/</loc>
+    <loc>https://reeveslab.github.io/authors/josleyn/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1967,13 +1765,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/skinner-j/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/song-h/</loc>
+    <loc>https://reeveslab.github.io/authors/song/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1984,7 +1776,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/addo-mm/</loc>
+    <loc>https://reeveslab.github.io/authors/addo/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2000,13 +1792,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/moreno-nieves-uy/</loc>
+    <loc>https://reeveslab.github.io/authors/moreno-nieves/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reardon-j/</loc>
+    <loc>https://reeveslab.github.io/authors/reardon/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2027,7 +1819,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/choi-jm/</loc>
+    <loc>https://reeveslab.github.io/authors/choi/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2038,31 +1830,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/fletcher-sg/</loc>
+    <loc>https://reeveslab.github.io/authors/fletcher/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/khavari-r/</loc>
+    <loc>https://reeveslab.github.io/authors/khavari/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/nguyen-v/</loc>
+    <loc>https://reeveslab.github.io/authors/nguyen/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reeves-k/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/snyder-m/</loc>
+    <loc>https://reeveslab.github.io/authors/snyder/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2073,25 +1859,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/harvey-jd/</loc>
+    <loc>https://reeveslab.github.io/authors/harvey/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lauer-wa/</loc>
+    <loc>https://reeveslab.github.io/authors/lauer/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mansfield-kg/</loc>
+    <loc>https://reeveslab.github.io/authors/mansfield/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chang-jj/</loc>
+    <loc>https://reeveslab.github.io/authors/chang/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2112,13 +1898,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/binder-wd/</loc>
+    <loc>https://reeveslab.github.io/authors/binder/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bryant-nn/</loc>
+    <loc>https://reeveslab.github.io/authors/bryant/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2129,25 +1915,25 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/parry-ba/</loc>
+    <loc>https://reeveslab.github.io/authors/parry/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/peterson-e/</loc>
+    <loc>https://reeveslab.github.io/authors/peterson/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/quillay-h/</loc>
+    <loc>https://reeveslab.github.io/authors/quillay/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/simmons-rp/</loc>
+    <loc>https://reeveslab.github.io/authors/simmons/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2158,19 +1944,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/audin-cr/</loc>
+    <loc>https://reeveslab.github.io/authors/audin/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bimber-bn/</loc>
+    <loc>https://reeveslab.github.io/authors/bimber/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/broman-kw/</loc>
+    <loc>https://reeveslab.github.io/authors/broman/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2186,127 +1972,103 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/fofana-ib/</loc>
+    <loc>https://reeveslab.github.io/authors/fofana/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gillis-jm/</loc>
+    <loc>https://reeveslab.github.io/authors/guethlein/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/guethlein-la/</loc>
+    <loc>https://reeveslab.github.io/authors/hall/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hall-lr/</loc>
+    <loc>https://reeveslab.github.io/authors/moreland/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/johnson-we/</loc>
+    <loc>https://reeveslab.github.io/authors/parham/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/moreland-aj/</loc>
+    <loc>https://reeveslab.github.io/authors/sato/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/oconnor-dh/</loc>
+    <loc>https://reeveslab.github.io/authors/shida/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/parham-p/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/sato-s/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/shida-h/</loc>
-    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/bazin-rj/</loc>
+    <loc>https://reeveslab.github.io/authors/bazin/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dack-kn/</loc>
+    <loc>https://reeveslab.github.io/authors/dack/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/fox-dn/</loc>
+    <loc>https://reeveslab.github.io/authors/fox/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/glossop-ms/</loc>
+    <loc>https://reeveslab.github.io/authors/glossop/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/macdonald-ga/</loc>
+    <loc>https://reeveslab.github.io/authors/macdonald/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mills-m/</loc>
+    <loc>https://reeveslab.github.io/authors/mills/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/owen-dr/</loc>
+    <loc>https://reeveslab.github.io/authors/owen/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/phillips-c/</loc>
+    <loc>https://reeveslab.github.io/authors/phillips/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reeves-ka/</loc>
+    <loc>https://reeveslab.github.io/authors/ringer/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ringer-tj/</loc>
-    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/strang-rs/</loc>
+    <loc>https://reeveslab.github.io/authors/strang/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2317,13 +2079,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/watson-ca/</loc>
+    <loc>https://reeveslab.github.io/authors/watson/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/fultz-pn/</loc>
+    <loc>https://reeveslab.github.io/authors/fultz/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2334,7 +2096,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/neidermyer-wj/</loc>
+    <loc>https://reeveslab.github.io/authors/neidermyer/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2350,18 +2112,12 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bosch-r/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://reeveslab.github.io/publication/21214542/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/poole-d/</loc>
+    <loc>https://reeveslab.github.io/authors/poole/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2372,55 +2128,49 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/berger-ct/</loc>
+    <loc>https://reeveslab.github.io/authors/berger/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/dugast-as/</loc>
+    <loc>https://reeveslab.github.io/authors/dugast/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ghebremichael-m/</loc>
+    <loc>https://reeveslab.github.io/authors/ghebremichael/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/irvine-dj/</loc>
+    <loc>https://reeveslab.github.io/authors/irvine/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/lauer-gm/</loc>
+    <loc>https://reeveslab.github.io/authors/liu/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/liu-q/</loc>
+    <loc>https://reeveslab.github.io/authors/mcandrew/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mcandrew-e/</loc>
+    <loc>https://reeveslab.github.io/authors/moldt/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/moldt-b/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/nolan-be/</loc>
+    <loc>https://reeveslab.github.io/authors/nolan/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2431,61 +2181,55 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reyor-ll/</loc>
+    <loc>https://reeveslab.github.io/authors/reyor/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rihn-s/</loc>
+    <loc>https://reeveslab.github.io/authors/rihn/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sciaranghella-g/</loc>
+    <loc>https://reeveslab.github.io/authors/sciaranghella/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/tsoukas-s/</loc>
+    <loc>https://reeveslab.github.io/authors/tsoukas/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wyatt-rt/</loc>
+    <loc>https://reeveslab.github.io/authors/wyatt/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/carrington-mf/</loc>
+    <loc>https://reeveslab.github.io/authors/faetkenheuer/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/faetkenheuer-g/</loc>
+    <loc>https://reeveslab.github.io/authors/hartmann/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hartmann-p/</loc>
+    <loc>https://reeveslab.github.io/authors/kane/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kane-k/</loc>
-    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/luteijn-r/</loc>
+    <loc>https://reeveslab.github.io/authors/luteijn/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2496,13 +2240,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/nagami-e/</loc>
+    <loc>https://reeveslab.github.io/authors/nagami/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/nolting-a/</loc>
+    <loc>https://reeveslab.github.io/authors/nolting/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2518,7 +2262,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wei-q/</loc>
+    <loc>https://reeveslab.github.io/authors/wei/</loc>
     <lastmod>2010-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2529,7 +2273,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/stallworth-j/</loc>
+    <loc>https://reeveslab.github.io/authors/stallworth/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2540,13 +2284,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/awad-as/</loc>
+    <loc>https://reeveslab.github.io/authors/awad/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/freeman-gj/</loc>
+    <loc>https://reeveslab.github.io/authors/freeman/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2557,26 +2301,20 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kaufmann-de/</loc>
+    <loc>https://reeveslab.github.io/authors/kaufmann/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/pereyra-f/</loc>
+    <loc>https://reeveslab.github.io/authors/pereyra/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/tighe-dp/</loc>
+    <loc>https://reeveslab.github.io/authors/tighe/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/cohen-k/</loc>
-    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2586,19 +2324,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/sun-y/</loc>
-    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/tsoukas-pn/</loc>
-    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/walker-b/</loc>
+    <loc>https://reeveslab.github.io/authors/sun/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2609,31 +2335,31 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/liagre-quazzola-a/</loc>
+    <loc>https://reeveslab.github.io/authors/liagre-quazzola/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mangeat-b/</loc>
+    <loc>https://reeveslab.github.io/authors/mangeat/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/trono-d/</loc>
+    <loc>https://reeveslab.github.io/authors/trono/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/turelli-p/</loc>
+    <loc>https://reeveslab.github.io/authors/turelli/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/verp-s/</loc>
+    <loc>https://reeveslab.github.io/authors/verp/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2644,73 +2370,73 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/deur-c/</loc>
+    <loc>https://reeveslab.github.io/authors/deur/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/fish-pv/</loc>
+    <loc>https://reeveslab.github.io/authors/fish/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gan-x/</loc>
+    <loc>https://reeveslab.github.io/authors/gan/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/greene-k/</loc>
+    <loc>https://reeveslab.github.io/authors/greene/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hoople-d/</loc>
+    <loc>https://reeveslab.github.io/authors/hoople/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/mackenny-m/</loc>
+    <loc>https://reeveslab.github.io/authors/mackenny/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/para-ks/</loc>
+    <loc>https://reeveslab.github.io/authors/para/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/ryckmans-t/</loc>
+    <loc>https://reeveslab.github.io/authors/ryckmans/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/stiff-c/</loc>
+    <loc>https://reeveslab.github.io/authors/stiff/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/stobie-a/</loc>
+    <loc>https://reeveslab.github.io/authors/stobie/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/wakenhut-f/</loc>
+    <loc>https://reeveslab.github.io/authors/wakenhut/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/whitlock-ga/</loc>
+    <loc>https://reeveslab.github.io/authors/whitlock/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2721,13 +2447,13 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/cox-lr/</loc>
+    <loc>https://reeveslab.github.io/authors/cox/</loc>
     <lastmod>2007-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kariuki-bm/</loc>
+    <loc>https://reeveslab.github.io/authors/kariuki/</loc>
     <lastmod>2007-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2738,7 +2464,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/williams-i/</loc>
+    <loc>https://reeveslab.github.io/authors/williams/</loc>
     <lastmod>2007-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2749,19 +2475,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/protzer-u/</loc>
+    <loc>https://reeveslab.github.io/authors/protzer/</loc>
     <lastmod>2007-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bailey-hr/</loc>
+    <loc>https://reeveslab.github.io/authors/bailey/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hurtado-ea/</loc>
+    <loc>https://reeveslab.github.io/authors/hurtado/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2769,12 +2495,6 @@
   <url>
     <loc>https://reeveslab.github.io/publication/17639344/</loc>
     <lastmod>2007-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/reeves-ko/</loc>
-    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2788,19 +2508,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/burgisser-p/</loc>
+    <loc>https://reeveslab.github.io/authors/burgisser/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/cavassini-m/</loc>
+    <loc>https://reeveslab.github.io/authors/cavassini/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chave-jp/</loc>
+    <loc>https://reeveslab.github.io/authors/chave/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2811,79 +2531,79 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/kaiser-l/</loc>
+    <loc>https://reeveslab.github.io/authors/kaiser/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/monnat-m/</loc>
+    <loc>https://reeveslab.github.io/authors/monnat/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/perrin-l/</loc>
+    <loc>https://reeveslab.github.io/authors/perrin/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/swiss-hiv-cohort-study/</loc>
+    <loc>https://reeveslab.github.io/authors/swiss/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/telenti-a/</loc>
+    <loc>https://reeveslab.github.io/authors/telenti/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/yerly-s/</loc>
+    <loc>https://reeveslab.github.io/authors/yerly/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/battegay-m/</loc>
+    <loc>https://reeveslab.github.io/authors/battegay/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/bernard-mc/</loc>
+    <loc>https://reeveslab.github.io/authors/bernard/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/chanzy-b/</loc>
+    <loc>https://reeveslab.github.io/authors/chanzy/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/flepp-m/</loc>
+    <loc>https://reeveslab.github.io/authors/flepp/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/furrer-h/</loc>
+    <loc>https://reeveslab.github.io/authors/furrer/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/gebhardt-m/</loc>
+    <loc>https://reeveslab.github.io/authors/gebhardt/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/hirschel-b/</loc>
+    <loc>https://reeveslab.github.io/authors/hirschel/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2894,19 +2614,19 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/perneger-t/</loc>
+    <loc>https://reeveslab.github.io/authors/perneger/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/rickenbach-m/</loc>
+    <loc>https://reeveslab.github.io/authors/rickenbach/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/vernazza-p/</loc>
+    <loc>https://reeveslab.github.io/authors/vernazza/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2917,7 +2637,7 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/vianin-s/</loc>
+    <loc>https://reeveslab.github.io/authors/vianin/</loc>
     <lastmod>2004-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2928,97 +2648,49 @@
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/autran-b/</loc>
+    <loc>https://reeveslab.github.io/authors/autran/</loc>
     <lastmod>2002-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/goh-le/</loc>
+    <loc>https://reeveslab.github.io/authors/goh/</loc>
     <lastmod>2002-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/samri-a/</loc>
+    <loc>https://reeveslab.github.io/authors/samri/</loc>
     <lastmod>2002-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/reeves/</loc>
+    <loc>https://reeveslab.github.io/authors/etienne/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/allie/</loc>
+    <loc>https://reeveslab.github.io/authors/hindin/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/brady/</loc>
+    <loc>https://reeveslab.github.io/authors/lifton/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/cordelia/</loc>
+    <loc>https://reeveslab.github.io/authors/nwokike/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/daniel/</loc>
+    <loc>https://reeveslab.github.io/authors/reuter/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/josh/</loc>
+    <loc>https://reeveslab.github.io/authors/werner/</loc>
   </url>
   
   <url>
-    <loc>https://reeveslab.github.io/authors/jost/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/keith/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/mercay/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/michelle/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/olivier/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/rachel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/rhianna/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/scott/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/somai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/spandan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/stephaniee/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/taylor/</loc>
-  </url>
-  
-  <url>
-    <loc>https://reeveslab.github.io/authors/val/</loc>
+    <loc>https://reeveslab.github.io/authors/yoder/</loc>
   </url>
   
   <url>
@@ -3030,7 +2702,77 @@
   </url>
   
   <url>
+    <loc>https://reeveslab.github.io/authors/allie/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/brady/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/cordelia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/daniel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://reeveslab.github.io/authors/joshua/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/mercay/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/michelle/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/olivier/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/rachel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/rhianna/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/somai/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/spandan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/stephaniee/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/taylor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reeveslab.github.io/authors/val/</loc>
     <priority>0</priority>
   </url>
   
