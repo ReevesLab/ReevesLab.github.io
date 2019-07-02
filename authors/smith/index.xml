@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smith on Reeves &amp; Jost Labs</title>
+    <title>Reeves &amp; Jost Labs</title>
     <link>https://reeveslab.github.io/authors/smith/</link>
-    <description>Recent content in Smith on Reeves &amp; Jost Labs</description>
+    <description>Recent content on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
@@ -58,6 +58,15 @@
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>https://reeveslab.github.io/publication/24349100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://reeveslab.github.io/authors/smith/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/authors/smith/</guid>
       <description></description>
     </item>
     
