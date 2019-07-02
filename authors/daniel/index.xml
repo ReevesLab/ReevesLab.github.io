@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>daniel on Reeves &amp; Jost Labs</title>
-    <link>/authors/daniel/</link>
+    <link>https://reeveslab.github.io/authors/daniel/</link>
     <description>Recent content in daniel on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/authors/daniel/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/authors/daniel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/ram/</link>
+      <link>https://reeveslab.github.io/authors/ram/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/ram/</guid>
+      <guid>https://reeveslab.github.io/authors/ram/</guid>
       <description></description>
     </item>
     

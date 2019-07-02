@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rachel on Reeves &amp; Jost Labs</title>
-    <link>/authors/rachel/</link>
+    <link>https://reeveslab.github.io/authors/rachel/</link>
     <description>Recent content in rachel on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/authors/rachel/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/authors/rachel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/hindin/</link>
+      <link>https://reeveslab.github.io/authors/hindin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/hindin/</guid>
+      <guid>https://reeveslab.github.io/authors/hindin/</guid>
       <description></description>
     </item>
     

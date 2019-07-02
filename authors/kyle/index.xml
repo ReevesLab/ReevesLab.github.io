@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kyle on Reeves &amp; Jost Labs</title>
-    <link>/authors/kyle/</link>
+    <link>https://reeveslab.github.io/authors/kyle/</link>
     <description>Recent content in kyle on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/kyle/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://reeveslab.github.io/authors/kyle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>/post/welcome/</link>
+      <link>https://reeveslab.github.io/post/welcome/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/welcome/</guid>
+      <guid>https://reeveslab.github.io/post/welcome/</guid>
       <description>&lt;p&gt;Hello and welcome to the new home for the Reeves and Jost Labs!&lt;/p&gt;
 
 &lt;p&gt;The goal of this new website is to offer a better understanding of the work we do and how it fits into the broader view of understanding the underlying mechanisms of HIV/SIV and CMV infections.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title></title>
-      <link>/authors/kroll/</link>
+      <link>https://reeveslab.github.io/authors/kroll/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/kroll/</guid>
+      <guid>https://reeveslab.github.io/authors/kroll/</guid>
       <description>&lt;p&gt;Soon-to be masters student of bioinformatics at the University of Maryland University College. Research interests include: transcriptomic profiling of memory-like NK cells, transcriptomic modulation during viral infection, and automated analyses of flow cytometry data.&lt;/p&gt;
 
 &lt;p&gt;Outside of the lab I enjoy competitive strength sports, hiking, and cycling around the Fells.&lt;/p&gt;
