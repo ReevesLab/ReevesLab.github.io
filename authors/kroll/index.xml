@@ -6,10 +6,20 @@
     <description>Recent content on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://reeveslab.github.io/authors/kroll/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transcriptomic Signatures of HIV-specific NK Clones</title>
+      <link>https://reeveslab.github.io/project/transcriptomic-clones/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeveslab.github.io/project/transcriptomic-clones/</guid>
+      <description>&lt;p&gt;Utilizing RNA-seq technologies, I am trying to understand the underlying mechanisms of NK cell memory responses towards HIV and CMV.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Non-linear multidimensional flow cytometry analyses delineate NK cell phenotypes in normal and HIV-infected chimpanzees.
