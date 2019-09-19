@@ -103,24 +103,55 @@
   </url>
   
   <url>
-    <loc>/authors/manickam/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <loc>/authors/hueber/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lucar/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ram/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/reeves/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/31167916/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/manickam/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/shah/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -176,17 +207,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/robert-guroff/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -215,11 +235,6 @@
   </url>
   
   <url>
-    <loc>/authors/lucar/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/dugan/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -239,11 +254,6 @@
   <url>
     <loc>/publication/30418531/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ram/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -377,11 +387,6 @@
     <loc>/authors/sheik/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/hueber/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1787,6 +1792,41 @@
   </url>
   
   <url>
+    <loc>/authors/choi/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/23143433/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fletcher/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/khavari/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nguyen/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/snyder/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/22927823/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -1943,6 +1983,77 @@
   <url>
     <loc>/authors/shida/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bazin/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dack/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/fox/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/glossop/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/macdonald/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mills/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/owen/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/phillips/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ringer/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/strang/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/21515054/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/watson/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2227,8 +2338,108 @@
   </url>
   
   <url>
+    <loc>/publication/18387300/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/deur/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/fish/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gan/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/greene/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hoople/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mackenny/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/para/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ryckmans/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/stiff/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/stobie/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wakenhut/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/whitlock/</loc>
+    <lastmod>2008-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/17989338/</loc>
     <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cox/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kariuki/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/17912386/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/williams/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2243,8 +2454,30 @@
   </url>
   
   <url>
+    <loc>/authors/bailey/</loc>
+    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hurtado/</loc>
+    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/17639344/</loc>
+    <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/17490699/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/16986907/</loc>
+    <lastmod>2006-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2435,11 +2668,6 @@
   
   <url>
     <loc>/jobs/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/31167916/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

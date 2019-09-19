@@ -34,21 +34,49 @@
     
     <item>
       <title></title>
-      <link>/authors/manickam/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <link>/authors/hueber/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/manickam/</guid>
+      <guid>/authors/hueber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/lucar/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lucar/</guid>
+      <description>&lt;p&gt;Exploring the relationship between NK cells and HIV infection in order to understand the development of NK cells antigen-specific responses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ram/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ram/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
       <link>/authors/reeves/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/reeves/</guid>
       <description>&lt;p&gt;Dr. R. Keith Reeves is currently Associate Professor of Medicine at Harvard Medical School and the Center for Virology and Vaccine Research (CVVR) of BIDMC.  He is the Director of the Harvard CFAR Advanced Technologies Core, Director of the CVVR Flow Cytometry Core and an Associate Member of the Ragon Institute of MGH, MIT, and Harvard.  He also works within the HIV Vaccine Trials Network (HVTN) and the BEAT-HIV Martin Delaney Cure Collaboratory.  Dr. Reeves obtained his PhD in the laboratory of Dr. Patricia Fultz at the University of Alabama-Birmingham in 2007 where his work focused on plasmacytoid dendritic cells as a mediator of inflammation in lentivirus infections.  Dr. Reeves then completed his postdoctoral work and was junior faculty at the New England Primate Research Center of Harvard Medical School where his studies focused on natural killer (NK) cell biology in nonhuman primates. He has published extensively in this field providing some of the most comprehensive analyses of NK cells and innate lymphoid cells (ILC) in HIV, SIV, and HCV infections to date, including the first characterization of memory NK cells in any primate species. Dr. Reeves’ research, largely supported by individual and consortia grants from NIAID, NIDCR, and amfAR, currently focuses on harnessing NK cells in the context of vaccines and antiviral therapeutics for HIV, CMV and HCV.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/manickam/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/manickam/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -170,16 +198,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/lucar/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lucar/</guid>
-      <description>&lt;p&gt;Exploring the relationship between NK cells and HIV infection in order to understand the development of NK cells antigen-specific responses.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Dugan</title>
       <link>/authors/dugan/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -194,15 +212,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/ram/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ram/</guid>
       <description></description>
     </item>
     
@@ -365,15 +374,6 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/sheik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/hueber/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hueber/</guid>
       <description></description>
     </item>
     
@@ -2089,6 +2089,51 @@
     </item>
     
     <item>
+      <title>Choi</title>
+      <link>/authors/choi/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/choi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fletcher</title>
+      <link>/authors/fletcher/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fletcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khavari</title>
+      <link>/authors/khavari/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/khavari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nguyen</title>
+      <link>/authors/nguyen/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snyder</title>
+      <link>/authors/snyder/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/snyder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Harvey</title>
       <link>/authors/harvey/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
@@ -2265,6 +2310,105 @@
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>/authors/shida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bazin</title>
+      <link>/authors/bazin/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bazin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dack</title>
+      <link>/authors/dack/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fox</title>
+      <link>/authors/fox/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glossop</title>
+      <link>/authors/glossop/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/glossop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacDonald</title>
+      <link>/authors/macdonald/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/macdonald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mills</title>
+      <link>/authors/mills/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owen</title>
+      <link>/authors/owen/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/owen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phillips</title>
+      <link>/authors/phillips/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/phillips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ringer</title>
+      <link>/authors/ringer/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ringer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strang</title>
+      <link>/authors/strang/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/strang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watson</title>
+      <link>/authors/watson/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/watson/</guid>
       <description></description>
     </item>
     
@@ -2584,11 +2728,164 @@
     </item>
     
     <item>
+      <title>Deur</title>
+      <link>/authors/deur/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/deur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish</title>
+      <link>/authors/fish/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gan</title>
+      <link>/authors/gan/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greene</title>
+      <link>/authors/greene/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/greene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoople</title>
+      <link>/authors/hoople/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hoople/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mackenny</title>
+      <link>/authors/mackenny/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mackenny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Para</title>
+      <link>/authors/para/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/para/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryckmans</title>
+      <link>/authors/ryckmans/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ryckmans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stiff</title>
+      <link>/authors/stiff/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stobie</title>
+      <link>/authors/stobie/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stobie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wakenhut</title>
+      <link>/authors/wakenhut/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wakenhut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whitlock</title>
+      <link>/authors/whitlock/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/whitlock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cox</title>
+      <link>/authors/cox/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kariuki</title>
+      <link>/authors/kariuki/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kariuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Williams</title>
+      <link>/authors/williams/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Protzer</title>
       <link>/authors/protzer/</link>
       <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
       
       <guid>/authors/protzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bailey</title>
+      <link>/authors/bailey/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bailey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hurtado</title>
+      <link>/authors/hurtado/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hurtado/</guid>
       <description></description>
     </item>
     
