@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Reeves &amp; Jost Labs</title>
-    <link>https://reeveslab.github.io/tags/blog/</link>
+    <link>/tags/blog/</link>
     <description>Recent content in Blog on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://reeveslab.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://reeveslab.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;Hello and welcome to the new home for the Reeves and Jost Labs!&lt;/p&gt;
 
 &lt;p&gt;The goal of this new website is to offer a better understanding of the work we do and how it fits into the broader view of understanding the underlying mechanisms of HIV/SIV and CMV infections.&lt;/p&gt;

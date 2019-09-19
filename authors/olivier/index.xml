@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>olivier on Reeves &amp; Jost Labs</title>
-    <link>https://reeveslab.github.io/authors/olivier/</link>
+    <link>/authors/olivier/</link>
     <description>Recent content in olivier on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://reeveslab.github.io/authors/olivier/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/olivier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://reeveslab.github.io/authors/lucar/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <link>/authors/lucar/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reeveslab.github.io/authors/lucar/</guid>
+      <guid>/authors/lucar/</guid>
       <description>&lt;p&gt;Exploring the relationship between NK cells and HIV infection in order to understand the development of NK cells antigen-specific responses.&lt;/p&gt;
 </description>
     </item>
