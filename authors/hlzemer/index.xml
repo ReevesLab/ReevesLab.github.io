@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hlzemer on Reeves &amp; Jost Labs</title>
+    <link>/authors/hlzemer/</link>
+    <description>Recent content in Hlzemer on Reeves &amp; Jost Labs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/hlzemer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HIV-1-Mediated Downmodulation of HLA-C Impacts Target Cell Recognition and Antiviral Activity of NK Cells.
+</title>
+      <link>/publication/28704647/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/28704647/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open conformers of HLA-F are high-affinity ligands of the activating NK-cell receptor KIR3DS1.
+</title>
+      <link>/publication/27455421/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/27455421/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
