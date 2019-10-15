@@ -13,12 +13,64 @@
   
   <url>
     <loc>/authors/ghofrani/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jost/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/31513076/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/geiger/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/koralnik/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tan/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -37,24 +89,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/31474977/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/aid/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -91,12 +131,6 @@
   
   <url>
     <loc>/authors/funderburg/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/geiger/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -172,23 +206,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/ryan/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -219,12 +236,6 @@
   
   <url>
     <loc>/authors/sinclair/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/tan/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

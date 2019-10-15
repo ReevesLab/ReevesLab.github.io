@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>/authors/ghofrani/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/ghofrani/</guid>
       <description></description>
@@ -23,11 +23,38 @@
     <item>
       <title></title>
       <link>/authors/jost/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/jost/</guid>
       <description>&lt;p&gt;My lab is currently addressing whether human NK cells are endowed with antigenic specificity and immunological memory to viruses, and how interactions between NK cells and other immune cells modulate the development of virus-specific adaptive immune responses. The primary goal of those studies is to provide the rationale to develop novel approaches aiming at harnessing NK cell function to enhance the efficacy of future vaccines.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Geiger</title>
+      <link>/authors/geiger/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/geiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koralnik</title>
+      <link>/authors/koralnik/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/koralnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tan</title>
+      <link>/authors/tan/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tan/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -119,15 +146,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/funderburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geiger</title>
-      <link>/authors/geiger/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/geiger/</guid>
       <description></description>
     </item>
     
@@ -263,15 +281,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/sinclair/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tan</title>
-      <link>/authors/tan/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/tan/</guid>
       <description></description>
     </item>
     
