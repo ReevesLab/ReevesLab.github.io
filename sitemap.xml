@@ -12,6 +12,94 @@
   </url>
   
   <url>
+    <loc>/authors/hueber/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jones/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kroll/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lifton/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/reeves/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/varner/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/curtis/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/de/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/31801861/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pathak/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/van/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/ghofrani/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -24,23 +112,6 @@
   <url>
     <loc>/authors/ram/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/reeves/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,23 +168,6 @@
   
   <url>
     <loc>/authors/mostrm/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -341,11 +395,6 @@
   </url>
   
   <url>
-    <loc>/authors/kroll/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/cytodrav/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
@@ -417,11 +466,6 @@
     <loc>/authors/kyle/</loc>
     <lastmod>2019-06-24T14:12:41-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/hueber/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -660,17 +704,7 @@
   </url>
   
   <url>
-    <loc>/authors/jones/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/smith/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/varner/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -2703,10 +2737,6 @@
   
   <url>
     <loc>/authors/hindin/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/lifton/</loc>
   </url>
   
   <url>
