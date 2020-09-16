@@ -6,34 +6,15 @@
     <description>Recent content in Authors on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/hueber/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hueber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/jones/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jones/</guid>
-      <description>&lt;p&gt;Rhianna is currently involved in many projects involving ImageStream Flow Cytometry, ELISPOTs and other flow techniques. She hopes to go to graduate school for a masters in genetic counseling in the future.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/kroll/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/kroll/</guid>
       <description>&lt;p&gt;Soon-to be masters student of bioinformatics at the University of Maryland University College. Research interests include: transcriptomic profiling of memory-like NK cells, transcriptomic modulation during viral infection, and automated analyses of flow cytometry data.&lt;/p&gt;
@@ -44,17 +25,26 @@
     
     <item>
       <title></title>
-      <link>/authors/lifton/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <link>/authors/manickam/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/lifton/</guid>
+      <guid>/authors/manickam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ram/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ram/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
       <link>/authors/reeves/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/reeves/</guid>
       <description>&lt;p&gt;Dr. R. Keith Reeves is currently Associate Professor of Medicine at Harvard Medical School and the Center for Virology and Vaccine Research (CVVR) of BIDMC.  He is the Director of the Harvard CFAR Advanced Technologies Core, Director of the CVVR Flow Cytometry Core and an Associate Member of the Ragon Institute of MGH, MIT, and Harvard.  He also works within the HIV Vaccine Trials Network (HVTN) and the BEAT-HIV Martin Delaney Cure Collaboratory.  Dr. Reeves obtained his PhD in the laboratory of Dr. Patricia Fultz at the University of Alabama-Birmingham in 2007 where his work focused on plasmacytoid dendritic cells as a mediator of inflammation in lentivirus infections.  Dr. Reeves then completed his postdoctoral work and was junior faculty at the New England Primate Research Center of Harvard Medical School where his studies focused on natural killer (NK) cell biology in nonhuman primates. He has published extensively in this field providing some of the most comprehensive analyses of NK cells and innate lymphoid cells (ILC) in HIV, SIV, and HCV infections to date, including the first characterization of memory NK cells in any primate species. Dr. Reeves’ research, largely supported by individual and consortia grants from NIAID, NIDCR, and amfAR, currently focuses on harnessing NK cells in the context of vaccines and antiviral therapeutics for HIV, CMV and HCV.&lt;/p&gt;
@@ -62,11 +52,696 @@
     </item>
     
     <item>
+      <title>Sugawara</title>
+      <link>/authors/sugawara/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sugawara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/hueber/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hueber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/jones/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jones/</guid>
+      <description>&lt;p&gt;Rhianna is currently involved in many projects involving ImageStream Flow Cytometry, ELISPOTs and other flow techniques. She hopes to go to graduate school for a masters in genetic counseling in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/shah/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/smith/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/varner/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/varner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alter</title>
+      <link>/authors/alter/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andersen</title>
+      <link>/authors/andersen/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/andersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arias</title>
+      <link>/authors/arias/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/arias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atyeo</title>
+      <link>/authors/atyeo/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/atyeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bakkers</title>
+      <link>/authors/bakkers/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bakkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baric</title>
+      <link>/authors/baric/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/baric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barouch</title>
+      <link>/authors/barouch/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/barouch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blade</title>
+      <link>/authors/blade/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/blade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bondzie</title>
+      <link>/authors/bondzie/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bondzie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bos</title>
+      <link>/authors/bos/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brown</title>
+      <link>/authors/brown/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burke</title>
+      <link>/authors/burke/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/burke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cabus</title>
+      <link>/authors/cabus/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cabus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cai</title>
+      <link>/authors/cai/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caradonna</title>
+      <link>/authors/caradonna/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/caradonna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chandrashekar</title>
+      <link>/authors/chandrashekar/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chandrashekar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen</title>
+      <link>/authors/chen/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cook</title>
+      <link>/authors/cook/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custers</title>
+      <link>/authors/custers/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/custers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dagotto</title>
+      <link>/authors/dagotto/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dagotto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feldman</title>
+      <link>/authors/feldman/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/feldman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fischinger</title>
+      <link>/authors/fischinger/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fischinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebre</title>
+      <link>/authors/gebre/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gebre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hauser</title>
+      <link>/authors/hauser/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hauser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>He</title>
+      <link>/authors/he/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoffman</title>
+      <link>/authors/hoffman/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hoffman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoof</title>
+      <link>/authors/hoof/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huber</title>
+      <link>/authors/huber/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/huber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob-Dolan</title>
+      <link>/authors/jacob-dolan/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jacob-dolan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirilova</title>
+      <link>/authors/kirilova/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kirilova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kwaks</title>
+      <link>/authors/kwaks/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kwaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Langedijk</title>
+      <link>/authors/langedijk/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/langedijk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lauffenburger</title>
+      <link>/authors/lauffenburger/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lauffenburger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lewis</title>
+      <link>/authors/lewis/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li</title>
+      <link>/authors/li/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin</title>
+      <link>/authors/lin/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liu</title>
+      <link>/authors/liu/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loos</title>
+      <link>/authors/loos/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/loos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahrokhian</title>
+      <link>/authors/mahrokhian/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mahrokhian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammen</title>
+      <link>/authors/mammen/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mammen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martinez</title>
+      <link>/authors/martinez/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxfield</title>
+      <link>/authors/maxfield/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/maxfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McMahan</title>
+      <link>/authors/mcmahan/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mcmahan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercado</title>
+      <link>/authors/mercado/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mercado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nampanya</title>
+      <link>/authors/nampanya/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nampanya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nityanandam</title>
+      <link>/authors/nityanandam/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nityanandam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nkolola</title>
+      <link>/authors/nkolola/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nkolola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patel</title>
+      <link>/authors/patel/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/patel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pessaint</title>
+      <link>/authors/pessaint/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pessaint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter</title>
+      <link>/authors/peter/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rutten</title>
+      <link>/authors/rutten/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rutten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ry</title>
+      <link>/authors/ry/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schmidt</title>
+      <link>/authors/schmidt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schuitemaker</title>
+      <link>/authors/schuitemaker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/schuitemaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stoffels</title>
+      <link>/authors/stoffels/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stoffels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strasbaugh</title>
+      <link>/authors/strasbaugh/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/strasbaugh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teow</title>
+      <link>/authors/teow/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/teow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tostanoski</title>
+      <link>/authors/tostanoski/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tostanoski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vellinga</title>
+      <link>/authors/vellinga/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/vellinga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventura</title>
+      <link>/authors/ventura/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ventura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verrington</title>
+      <link>/authors/verrington/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/verrington/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wan</title>
+      <link>/authors/wan/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wegmann</title>
+      <link>/authors/wegmann/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wegmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu</title>
+      <link>/authors/yu/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zahn</title>
+      <link>/authors/zahn/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zouantchangadou</title>
+      <link>/authors/zouantchangadou/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zouantchangadou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zuijdgeest</title>
+      <link>/authors/zuijdgeest/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zuijdgeest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>van</title>
+      <link>/authors/van/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/van/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aid</title>
+      <link>/authors/aid/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/aid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bosinger</title>
+      <link>/authors/bosinger/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bosinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/lifton/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lifton/</guid>
       <description></description>
     </item>
     
@@ -98,15 +773,6 @@
     </item>
     
     <item>
-      <title>Van</title>
-      <link>/authors/van/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/van/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/ghofrani/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -123,15 +789,6 @@
       <guid>/authors/jost/</guid>
       <description>&lt;p&gt;My lab is currently addressing whether human NK cells are endowed with antigenic specificity and immunological memory to viruses, and how interactions between NK cells and other immune cells modulate the development of virus-specific adaptive immune responses. The primary goal of those studies is to provide the rationale to develop novel approaches aiming at harnessing NK cell function to enhance the efficacy of future vaccines.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/ram/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ram/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -268,24 +925,6 @@
       <guid>/authors/lucar/</guid>
       <description>&lt;p&gt;Exploring the relationship between NK cells and HIV infection in order to understand the development of NK cells antigen-specific responses.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/manickam/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/manickam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aid</title>
-      <link>/authors/aid/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/aid/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -523,15 +1162,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/shah/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/shah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ackerman</title>
       <link>/authors/ackerman/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -555,15 +1185,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/kent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lewis</title>
-      <link>/authors/lewis/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lewis/</guid>
       <description></description>
     </item>
     
@@ -627,24 +1248,6 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/dugan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Li</title>
-      <link>/authors/li/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barouch</title>
-      <link>/authors/barouch/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/barouch/</guid>
       <description></description>
     </item>
     
@@ -798,15 +1401,6 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/sheik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/smith/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/smith/</guid>
       <description></description>
     </item>
     
@@ -1212,15 +1806,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/robles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bosinger</title>
-      <link>/authors/bosinger/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/bosinger/</guid>
       <description></description>
     </item>
     
@@ -1639,15 +2224,6 @@
     </item>
     
     <item>
-      <title>Yu</title>
-      <link>/authors/yu/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kramer</title>
       <link>/authors/kramer/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
@@ -1662,15 +2238,6 @@
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/authors/rajakumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alter</title>
-      <link>/authors/alter/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/alter/</guid>
       <description></description>
     </item>
     
@@ -2040,15 +2607,6 @@
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/authors/che/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lauffenburger</title>
-      <link>/authors/lauffenburger/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lauffenburger/</guid>
       <description></description>
     </item>
     
@@ -2751,15 +3309,6 @@
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>/authors/irvine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liu</title>
-      <link>/authors/liu/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/liu/</guid>
       <description></description>
     </item>
     
