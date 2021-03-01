@@ -1473,6 +1473,11 @@
   </url>
   
   <url>
+    <loc>/authors/rascle/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/derreudre-bosquet/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1503,12 +1508,6 @@
   
   <url>
     <loc>/authors/ploquin/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/rascle/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3123,11 +3122,19 @@
   </url>
   
   <url>
+    <loc>/authors/cope/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/etienne/</loc>
   </url>
   
   <url>
     <loc>/authors/hindin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/mosher/</loc>
   </url>
   
   <url>
@@ -3143,11 +3150,20 @@
   </url>
   
   <url>
+    <loc>/authors/woolley/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/yoder/</loc>
   </url>
   
   <url>
     <loc>/jobs/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/alexander/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3171,7 +3187,17 @@
   </url>
   
   <url>
+    <loc>/authors/griffin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/joshua/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew/</loc>
     <priority>0</priority>
   </url>
   
@@ -3187,6 +3213,11 @@
   
   <url>
     <loc>/authors/olivier/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/philippe/</loc>
     <priority>0</priority>
   </url>
   
