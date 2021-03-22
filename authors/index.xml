@@ -6,15 +6,34 @@
     <description>Recent content in Authors on Reeves &amp; Jost Labs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+      <link>/authors/hueber/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hueber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/jones/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jones/</guid>
+      <description>&lt;p&gt;Rhianna is currently involved in many projects involving ImageStream Flow Cytometry, ELISPOTs and other flow techniques. She hopes to go to graduate school for a masters in genetic counseling in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/kroll/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/kroll/</guid>
       <description>&lt;p&gt;Soon-to be masters student of bioinformatics at the University of Maryland University College. Research interests include: transcriptomic profiling of memory-like NK cells, transcriptomic modulation during viral infection, and automated analyses of flow cytometry data.&lt;/p&gt;
@@ -26,7 +45,7 @@
     <item>
       <title></title>
       <link>/authors/manickam/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/manickam/</guid>
       <description></description>
@@ -35,7 +54,7 @@
     <item>
       <title></title>
       <link>/authors/ram/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/ram/</guid>
       <description></description>
@@ -44,7 +63,7 @@
     <item>
       <title></title>
       <link>/authors/reeves/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/reeves/</guid>
       <description>&lt;p&gt;Dr. R. Keith Reeves is currently Associate Professor of Medicine at Harvard Medical School and the Center for Virology and Vaccine Research (CVVR) of BIDMC.  He is the Director of the Harvard CFAR Advanced Technologies Core, Director of the CVVR Flow Cytometry Core and an Associate Member of the Ragon Institute of MGH, MIT, and Harvard.  He also works within the HIV Vaccine Trials Network (HVTN) and the BEAT-HIV Martin Delaney Cure Collaboratory.  Dr. Reeves obtained his PhD in the laboratory of Dr. Patricia Fultz at the University of Alabama-Birmingham in 2007 where his work focused on plasmacytoid dendritic cells as a mediator of inflammation in lentivirus infections.  Dr. Reeves then completed his postdoctoral work and was junior faculty at the New England Primate Research Center of Harvard Medical School where his studies focused on natural killer (NK) cell biology in nonhuman primates. He has published extensively in this field providing some of the most comprehensive analyses of NK cells and innate lymphoid cells (ILC) in HIV, SIV, and HCV infections to date, including the first characterization of memory NK cells in any primate species. Dr. Reeves’ research, largely supported by individual and consortia grants from NIAID, NIDCR, and amfAR, currently focuses on harnessing NK cells in the context of vaccines and antiviral therapeutics for HIV, CMV and HCV.&lt;/p&gt;
@@ -52,37 +71,9 @@
     </item>
     
     <item>
-      <title>Sugawara</title>
-      <link>/authors/sugawara/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sugawara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/hueber/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hueber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/jones/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jones/</guid>
-      <description>&lt;p&gt;Rhianna is currently involved in many projects involving ImageStream Flow Cytometry, ELISPOTs and other flow techniques. She hopes to go to graduate school for a masters in genetic counseling in the future.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/shah/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/shah/</guid>
       <description></description>
@@ -91,7 +82,7 @@
     <item>
       <title></title>
       <link>/authors/smith/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/smith/</guid>
       <description></description>
@@ -100,9 +91,27 @@
     <item>
       <title></title>
       <link>/authors/varner/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/varner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/woolley/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/woolley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/sugawara/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sugawara/</guid>
       <description></description>
     </item>
     
@@ -3836,15 +3845,6 @@
     
     <item>
       <title></title>
-      <link>/authors/woolley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/woolley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/yoder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3975,6 +3975,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/rhianna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sho</title>
+      <link>/authors/sho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sho/</guid>
       <description></description>
     </item>
     
